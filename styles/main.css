@@ -61,7 +61,7 @@ header > ul li:first-child > div {
 	min-width: 250px;
 	border-right: 1px solid rgba(128, 128, 128, 0.321);
 	overflow-y: auto;
-    
+    border: none;
 }
 
 .content > main {
@@ -73,6 +73,7 @@ header > ul li:first-child > div {
 	justify-content: space-between;
 	align-items: center;
     gap: 15px;
+	border: none;
 }
 
 .search {
